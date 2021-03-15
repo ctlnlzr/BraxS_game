@@ -1,0 +1,3 @@
+/home/lazarcatalina/CLionProjects/BraxS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lazarcatalina/CLionProjects/BraxS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lazarcatalina/CLionProjects/BraxS/cmake-build-debug/CMakeFiles/BraxS.dir

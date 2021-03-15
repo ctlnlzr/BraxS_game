@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/BraxS.dir/main.c.o  -o BraxS 
